@@ -1,0 +1,5 @@
+Requirements programa ratão
+
+pip install tkcalendar
+pip install pytides
+pip install tide
