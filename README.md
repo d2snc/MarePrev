@@ -3,6 +3,9 @@ Programa em Python criado com o objetivo de criar uma previsão de maré utiliza
 
 # Como executar
 
-python mareprev.py
+1. Abrir o Terminal
+2. Com o git instalado, digitar "git clone https://github.com/d2snc/MarePrev" e depois entrar na pasta 
+3. Digitar "python mareprev.py"
+4. No GUI que irá abrir terá instruções para carregar o arquivo txt com as medições do nível do mar.
 
-No GUI que irá abrir terá instruções para carregar o arquivo txt com as medições do nível do mar.
+
