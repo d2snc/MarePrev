@@ -8,4 +8,7 @@ Programa em Python criado com o objetivo de criar uma previsão de maré utiliza
 3. Digitar "python mareprev.py"
 4. No GUI que irá abrir terá instruções para carregar o arquivo txt com as medições do nível do mar.
 
+# Dúvidas e sugestões
+Só me mandar um email -> douglasli1995@usp.br
+
 
