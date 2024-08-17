@@ -1,14 +1,15 @@
 # MarePrev
-Programa em Python criado com o objetivo de criar uma previsão de maré utilizando dados do nível do mar obtidos por meio de equipamentos, utilizando o pacote pytides para realização das previsões. 
+Python program created with the goal of generating tide forecasts using sea level data obtained through equipment, utilizing the `pytides` package for predictions.
 
-# Como executar
+![image](https://github.com/user-attachments/assets/da8e02e7-06b6-47cf-8706-add35e7cd383)
+![image](https://github.com/user-attachments/assets/b417fba6-2eb7-4394-8f01-5f8f21a6db40)
 
-1. Abrir o Terminal
-2. Com o git instalado, digitar "git clone https://github.com/d2snc/MarePrev" e depois entrar na pasta 
-3. Digitar "python mareprev.py"
-4. No GUI que irá abrir terá instruções para carregar o arquivo txt com as medições do nível do mar.
+# How to Run
 
-# Dúvidas e sugestões
-Só me mandar um email -> douglasli1995@usp.br
+1. Open the Terminal
+2. With git installed, type "git clone https://github.com/d2snc/MarePrev" and then navigate to the folder
+3. Type "python mareprev.py"
+4. In the GUI that opens, you will find instructions to load the txt file with the sea level measurements.
 
-
+# Questions and Suggestions
+Just send me an email -> douglasli1995@usp.br
